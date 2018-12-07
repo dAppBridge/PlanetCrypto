@@ -23,4 +23,6 @@ Play now on Desktop & Mobile with your favourite Ethereum Wallet:
 
 https://planetcrypto.app
 
-Discord Link: https://discord.gg/2k66rEn
+Discord: https://discord.gg/2k66rEn
+Telegram: https://t.me/PlanetCryptoApp
+
