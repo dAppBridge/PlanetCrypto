@@ -41,6 +41,9 @@ https://www.facebook.com/Planet-Crypto-2191110514243638
 Medium: 
 https://medium.com/planetcrypto
 
+Bounty Program/Bitcointalk:
+https://bitcointalk.org/index.php?topic=5070227.msg
+
 
 **Play Now**
 https://planetcrypto.app
