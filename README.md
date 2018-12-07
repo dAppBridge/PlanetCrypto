@@ -28,3 +28,4 @@ Telegram: https://t.me/PlanetCryptoApp
 Twitter: https://twitter.com/planetcryptoApp
 Reddit: https://www.reddit.com/r/PlanetCrypto/
 Facebook: https://www.facebook.com/Planet-Crypto-2191110514243638
+Medium: https://medium.com/planetcrypto
