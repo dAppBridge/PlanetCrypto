@@ -26,3 +26,4 @@ https://planetcrypto.app
 Discord: https://discord.gg/2k66rEn
 Telegram: https://t.me/PlanetCryptoApp
 Twitter: https://twitter.com/planetcryptoApp
+Reddit: https://www.reddit.com/r/PlanetCrypto/
