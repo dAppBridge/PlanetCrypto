@@ -19,6 +19,8 @@ We've put the entire globe onto the blockchain - a feat which has never been ach
 
 The games 1st round is now live ~ LAND GRAB!
 
+Play now on Desktop & Mobile with your favourite Ethereum Wallet:
+
 https://planetcrypto.app
 
 
