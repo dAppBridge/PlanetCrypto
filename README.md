@@ -2,6 +2,9 @@
 
 **Own, Trade and Earn ETH with Collectible Plots of Planet Earth**
 
+![PlanetCrypto](https://planetcrypto.app/images/ad01.jpg "PlanetCrypto.app")
+
+
 Ever wanted to own your parts of your Town, Your Office Block... The White House or even The Kremlin? 
 
 Planet Crypto lets you own virtual plots of the entire planet! 
