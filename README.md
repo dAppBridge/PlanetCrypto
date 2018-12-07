@@ -23,12 +23,24 @@ Play now on Desktop & Mobile with your favourite Ethereum Wallet:
 
 https://planetcrypto.app
 
-Discord: https://discord.gg/2k66rEn
-Telegram: https://t.me/PlanetCryptoApp
-Twitter: https://twitter.com/planetcryptoApp
-Reddit: https://www.reddit.com/r/PlanetCrypto/
-Facebook: https://www.facebook.com/Planet-Crypto-2191110514243638
-Medium: https://medium.com/planetcrypto
+Discord: 
+https://discord.gg/2k66rEn
+
+Telegram: 
+https://t.me/PlanetCryptoApp
+
+Twitter: 
+https://twitter.com/planetcryptoApp
+
+Reddit: 
+https://www.reddit.com/r/PlanetCrypto/
+
+Facebook: 
+https://www.facebook.com/Planet-Crypto-2191110514243638
+
+Medium: 
+https://medium.com/planetcrypto
+
 
 **Play Now**
 https://planetcrypto.app
